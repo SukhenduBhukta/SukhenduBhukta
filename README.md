@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @SukhenduBhukta
+- 👋 Hi, I’m Sukhendu Bhukta
 - 👀 I’m interested in Designing websites, Problem Solving.
 - 🌱 I’m currently learning Btech with specialization in Computer Science and Engineering 
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by sukhendu.bhukta789@gmail.com
 
 <!---
