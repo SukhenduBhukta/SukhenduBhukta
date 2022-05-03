@@ -2,7 +2,7 @@
 - 👀 I’m interested in Designing websites, Problem Solving.
 - 🌱 I’m currently learning Btech with specialization in Computer Science and Engineering 
 - 📫 You can reach me by [sukhendu.bhukta789@gmail.coml](sukhendu.bhukta789@gmail.com)
-![This is image](../blob/main/assets/images/electrocat.png)
+![This is image](	/../../../../github/docs/blob/main/assets/images/electrocat.pngg)
 <!---
 SukhenduBhukta/SukhenduBhukta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
